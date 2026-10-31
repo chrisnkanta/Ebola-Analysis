@@ -1,6 +1,6 @@
 ---
 title: "Ebola Outbreak Analysis in Sierra Leone"
-author: "Data Analysis Portfolio Project"
+author: "Christopher Nkanta Data Analysis Portfolio Project"
 date: "2026-10-17"
 output:
   prettydoc::html_pretty:
