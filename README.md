@@ -1,5 +1,9 @@
 # Ebola Outbreak Analysis in Sierra Leone | R
 
+## View Ebola Analysis
+[View the HTML Analysis Report]([Ebola_Analysis.html](https://github.com/chrisnkanta/Ebola-Analysis/blob/main/Ebola_Analysis.html))
+
+
 ## Project Overview
 
 This project explores reported Ebola virus disease (EVD) cases in Sierra Leone using R. It examines case classification, demographic characteristics (age and sex), and the geographical distribution of reported cases across districts.
