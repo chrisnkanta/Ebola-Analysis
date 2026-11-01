@@ -1,6 +1,5 @@
 # Ebola Outbreak Analysis in Sierra Leone | R
 
-
 ## Project Overview
 
 This project explores reported Ebola virus disease (EVD) cases in Sierra Leone using R. It examines case classification, demographic characteristics (age and sex), and the geographical distribution of reported cases across districts.
