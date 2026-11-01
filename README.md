@@ -1,8 +1,5 @@
 # Ebola Outbreak Analysis in Sierra Leone | R
 
-## View Ebola Analysis
-[View the HTML Analysis Report]([Ebola_Analysis.html](https://github.com/chrisnkanta/Ebola-Analysis/blob/main/Ebola_Analysis.html)
-
 
 ## Project Overview
 
